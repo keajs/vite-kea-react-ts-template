@@ -8,6 +8,7 @@
     "dev:kea": "kea-typegen watch --write-paths",
     "dev:vite": "vite",
     "build": "tsc && vite build",
+    "prettier": "prettier --write src",
     "preview": "vite preview"
   },
   "dependencies": {
